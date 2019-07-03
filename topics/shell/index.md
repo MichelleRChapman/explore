@@ -1,6 +1,6 @@
 ---
 aliases: shell-script, shell-scripts, shellscript, shellcode
-created_by: Glenda Schroeder
+created_by: Michelle Chapman 
 display_name: Shell
 related: bash
 released: '1965'
